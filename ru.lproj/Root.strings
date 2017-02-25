@@ -1,6 +1,6 @@
 "App Center" = "App Center";
-"Enabled" = "Включенный";
+"Enabled" = "Включить";
 "App Page Size (default is 1.0)" = "Размер страницы приложения (значение по умолчанию 1.0)";
-"Hint: open Settings in App Center to see the changes live!" = "Подсказка: откройте настройки в App Center, что бы убедиться, что изменение принято.";
+"Hint: open Settings in App Center to see the changes live!" = "Подсказка: откройте настройки App Center, чтобы убедиться, что изменение принято.";
 "App Center © 2017 Evan Swick and Christoph Parstorfer" = "App Center © 2017 Эван Свик и Кристоф Паршторфер";
 "INSERT LICENSE INFO" = "";
